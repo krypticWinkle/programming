@@ -1,0 +1,37 @@
+Everything began on exact time as told before.
+ 
+The interviewer came, greeted "Hi Ayush", to which I greeted back - "Hello sir, good evening! How are you?"
+Then he briefly introduced himself in 30 secs. He said that was working with Amazon for last 2 years. And he was in some transaction type work
+or in a team that does so. Then I too introduced myself in about the same time, in brief. Now the interviewer said: "Shall we directly start?" I said 
+"yeah, sure".
+
+
+He gave me this question:
+https://www.geeksforgeeks.org/given-large-number-check-subsequence-digits-divisible-8/
+
+We had a very long discussion for 1 hour, optimizing the solution, discussing time and space complexities, writing the  code. I told him a solution 
+in O(n^2) and he seemed fine with that. But there's a solution to this in O(n) on gfg.
+
+
+
+Immediate Takeaways 
+
+Revise time/space complexity properly
+Practice more more more more more ..........................................................
+
+Long term takeaways:
+You have to be too good in DP.
+
+Takeaways from friends' interviews
+Reverse level order in bin tree, height of bin tree, get connected component of graph, binary search, merge k sorted LL, merge 2 sorted LL, rotate an
+array, rotate a 2d array by 90 degree, anagram.
+
+
+MICROSOFT INTERVIEW QUESTIONS:
+https://www.geeksforgeeks.org/minimum-number-appends-needed-make-string-palindrome/
+https://www.geeksforgeeks.org/lexicographic-rank-string-duplicate-characters/
+https://www.geeksforgeeks.org/longest-palindromic-substring-set-2/
+https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+https://www.geeksforgeeks.org/array-rotation/
+https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/
+https://www.geeksforgeeks.org/tiling-problem/

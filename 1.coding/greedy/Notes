@@ -1,0 +1,41 @@
+To sort a vector:
+    sort(v.begin(), v.end());
+
+//To sort an array
+sort(arr, arr+size);
+
+#define vi vector<int>
+main()
+{
+    vi a; //instead of vector<int> a;
+}
+#define rep(i,a,b) for(int i=0; i<b; i++)
+main()
+{
+    rep(i,0,n)
+        cin>>a[i];
+}
+
+//To sort a particular row in a 2D vector
+vector< vector<int> > vect{  {3, 5, 1}, {4, 8, 6}, {7, 2, 9}  };
+    sort(vect[0].begin(), vect[0].end());
+
+
+    vector<vector<int>>tasks;       //This is different from: vector<int>tasks[2];     
+
+//READ MULTISETS, SETS AND PAIRS!
+
+#define vi vector<int>
+#define pii pair<int, int>
+#define vii vector<pii>
+#define ff first;
+#define ss second;
+
+vii a(5);
+for(i=0; i<5; i++)
+{
+    vii[i].ff >> vii[i].ss;
+}
+
+//In optimal merge problem, you can use Sigma di*xi (told by abdul bari sir) to calculate
+//the cumulative sum

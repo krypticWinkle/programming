@@ -1,0 +1,8 @@
+To see the time complexity analysis of isBST problem and diameter problem, 
+see video at 24 minutes (BST L01)
+
+INT32_MIN : smallest 32 bit number in c++
+INT32_MAX : largest 32 bit number in c++
+Generally used when you gave to return a vary large or small number (check_bin_tree.cpp)
+
+check_bin_tree.cpp has a 3 solutions. Check video (coding ninja)

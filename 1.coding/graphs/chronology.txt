@@ -1,0 +1,23 @@
+Has Path
+Print All Path
+Multisolver
+
+get connected components
+is graph connected
+Number Of Islands
+
+Perfect Friends
+Hamiltonian Path And Cycle
+Knights Tour 
+
+Breadth First Traversal
+Is Graph Cyclic 
+Is Graph Bipartite 
+
+Spread Of Infection 
+Shortest Path In Weights 
+Minimum Wire Required To Connect All Pcs
+
+Order Of Compilation
+Iterative Depth First Traversal
+

@@ -1,0 +1,28 @@
+Profile photo for Ahmad Malik
+Ahmad Malik
+Conducted 200+ interviews, software engineer for 15 yearsUpdated May 8, 2019
+I am a 5 years experienced software engineer and aim to crack an interview for companies like Google, Facebook, LinkedIn, etc. How should I go about my preparation (resources, papers, etc.)?
+I was exactly in the same place as you when I cracked my interview at Facebook, Google, and Microsoft. So let me share how did I do my preparations and what were the different resources that helped me the most. There are tons of tools available (sites, boot camps, apps, etc.), and I had tried a few of them. The following answer is a summary of my journey for my interview preparations, stating resources and guidance that proved super helpful. It worked for me, hopefully, it'll help you too. (Please do share if you’ve comments).
+
+I prepared for 3–4 months. For me, the biggest problem was the whiteboard coding. I wasn’t feeling comfortable with it since this is not what you usually do in your day to day job. The second issue was since I was being interviewed as a senior candidate, I needed to show solid design skills to meet their expectations.
+
+So I have two suggestions for anyone planning for their Interview as a senior software engineer:
+
+Keep practicing on the whiteboard until you feel super comfortable with coding, data structures, and algorithms. This practice is needed for coding interviews.
+Don’t forget to prepare for system design interviews. Coding interviews have become a prerequisite these days, your actual position/level (and salary, etc.) is decided based on the design skills you have.
+Given all this, now let me state the general interview process and some resources to prepare for different parts of it.
+
+There is usually a phone screen followed by a full interview loop onsite. There are three parts to a software engineering interview loop, try to focus on all of them for your preparation:
+
+Coding interview: Either on a whiteboard or on an actual computer. This has become a prerequisite for getting an offer. If you cannot code/solve the problem (or have some serious bugs in your code), it’s quite difficult to get an offer. Best resources to prepare for this kind of interview: Grokking the Coding Interview and LeetCode. You should expect at least two coding interviews in a loop.
+System Design Interview: This tests your design skills and your ability to work with complex and scalable services. Your performance in these interviews determines what position and salary you will be offered. If you show excellent design skills, you will get a higher offer. A couple of good resources to prepare for design interviews: Grokking the System Design Interview and Grokking the Object Oriented Design Interview.
+Cultural fit interview. During this interview, companies see if a candidate would be a good fit for their culture. Candidate should not show any red flag.
+Like coding interviews, candidates who haven’t spent enough time preparing for System Design Interviews (SDIs) mostly perform poorly. This becomes even more important when you are interviewing at the top companies like Google or Facebook. In these companies, if a candidate doesn’t perform above average, they have a limited chance to get an offer. Also, a good performance in such interviews always results in a better offer (financially), since your performance shows your ability to work with complex systems.
+
+Also, all these big companies tend to like candidates who are familiar with distributed systems concepts like Caching, Data Partitioning, Consistent Hashing, Load Balancing, Redundancy and Replication, CAP Theorem, etc.
+
+A few sample design problems are: Designing a URL Shortening service like TinyURL, Designing Instagram, Designing Twitter, Designing Youtube, Design a Parking Lot
+
+Also take a look at this question: What is the best way to learn algorithms? I want to prepare for a Google interview and I am willing to spend all of my free time learning.
+
+Hope this will help!

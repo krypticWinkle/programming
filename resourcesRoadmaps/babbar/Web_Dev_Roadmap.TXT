@@ -1,0 +1,30 @@
+				ROADMAP FOR WEB-DEV BY LOVE BABBAR
+
+
+1: Git and Github     Babbaar K Sources: (i)Open Source Contribution
+					   (ii) Github Challenge
+						OR
+Github Video1: https://www.youtube.com/watch?v=fMdfD...​
+Github Video2: https://www.youtube.com/watch?v=uj4fy...​
+						OR
+		Free course on Udacity (https://www.udacity.com/course/versio...
+
+
+
+Project Idea Video Link: https://www.youtube.com/watch?v=KJ_o-...
+
+
+					
+2: Linux Command Line
+
+3: Front End
+(i) HTML, CSS, JS(W3 Schools). For JS, practice from javascript30.com
+(ii) React (reactjs.org) or Angular
+
+4: Back-end
+(i) Java + Spring
+or
+(ii) Python + Django
+or
+(iii)NodeJS (most preferred)
+(NodeJS by Rob Percivel Udemy)

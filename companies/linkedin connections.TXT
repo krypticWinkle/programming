@@ -1,0 +1,222 @@
+Got this from a Post on Blind : (Mostly accurate with few exceptions/inaccuracies)
+
+
+
+
+I noticed that conversations about top companies and startups on Blind is mostly US-centric.
+So decided to do some research and made a list of top tech companies in India categorized by factors like pay/wlb/remote-first etc.
+Just wanted to share it with the community.
+
+Also request you to please let me know if the list is missing any company, or if a company is categorized incorrectly.
+
+Here is the list:
+
+# Highest paying companies (40+ LPA for 3 YOE)
+
+## High pay / Good WLB
+- Adobe
+- Apple
+- Arcesium
+- Atlassian
+- Expedia
+- Google
+- Indeed
+- Inmobi
+- Intel
+- Intuit
+- Linkedin
+- Microsoft
+- Morgan Stanley
+- Nutanix
+- Nvidia
+- Salesforce
+- Twitter
+- VMWare
+
+## High pay / Unknown WLB (Didn't find much data)
+- AirBnB
+- Alphonso
+- App Dynamics
+- Aviso
+- Bloomreach
+- Citrix
+- Cloudera
+- Cohesity
+- Coinbase
+- Compass
+- Cure Fit
+- Directi
+- Hasura
+- HealthifyMe
+- Instabase
+- Meesho
+- MotorQ
+- Myntra
+- Ola
+- Oracle (OCI)
+- Palo Alto Networks
+- Postman
+- Practo
+- Quadeye
+- Qubole
+- Rippling
+- Rubrik
+- ServiceNow
+- Sharechat
+- Snowflake
+- Stripe
+- Sumologic
+- Swiggy
+- Target
+- Thoughtspot
+- Udaan
+- UiPath
+- Urban Company
+- Vizury
+- Whatfix
+- World Quant
+
+## High pay / Bad WLB
+- Amazon
+- Codenation
+- DE Shaw
+- Goldman Sachs
+- Grab
+- Harness
+- Sprinklr
+- Tekion
+- Tower Research
+- Uber
+- Wissen (Consultancy having high profile clients like Morgan Stanley) 
+- Zomato
+
+------------------------------------------------
+
+# Lower paying companies
+
+## Low pay / Good WLB
+- ARM
+- Blackbuck
+- Broadcom
+- Cisco
+- Confluent
+- Couchbase
+- Intel
+- Mathworks
+- Mentor Graphics
+- MongoDb
+- Oracle (other than OCI)
+- Qualcomm
+- Samsung
+- Slack
+- Texas Instruments
+- Visa
+- Walmart
+
+## Low pay / Unknown WLB
+- BigBasket
+- Box8
+- Bounce
+- BrowserStack
+- Chowbotics (DoorDash)
+- ClearTax
+- Coinbase
+- Cred
+- Dream11
+- Dunzo
+- Esper
+- Flipkart
+- Informatica 
+- Jio
+- JP Morgan
+- Jumbotail
+- Juniper Networks
+- Kuvera
+- MakeMyTrip
+- Mobikwik
+- Mindtickle
+- MokaPos
+- MX Player
+- MyGate
+- Navi
+- Oyo
+- Paypal
+- Razorpay
+- Redhat
+- SanDisk
+- Sprinklr
+- SuprDaily
+- Twilio
+- Unacademy
+- Upgrad
+- Zerodha
+
+## Low pay / Bad WLB
+- Grofers
+- Hotstar
+- Paytm
+
+------------------------------------------------
+
+# Unknown compensation
+- FalconX
+- Freshworks
+- Gojek
+- Groupon
+- Hackerearth
+- Policy Bazaar
+- Rupeek
+- Tokopedia
+- Trifacta
+- Truecaller
+- Zoom
+- Zynga
+
+------------------------------------------------
+
+# Visa-sponsors
+- Booking Amsterdam
+- ByteDance Singapore
+- Databricks Amsterdam
+- Facebook London
+- Spotify Stockholm
+- Yelp London
+- Zalando Berlin
+- Plenty of other options on Stackoverflow jobs.
+
+------------------------------------------------
+
+# Remote-first companies
+- Atlassian
+- Auth0
+- CleverTech
+- Coinbase
+- Datadog
+- Deel
+- Doist
+- Elastic.co
+- Facebook
+- Github
+- Gitlab
+- Grafana
+- HashiCorp
+- Hotjar
+- Lattice
+- Notion
+- Salesforce
+- Shopify
+- Slack
+- Square
+- Stackoverflow
+- Theorem
+- Turing
+- Twitter
+- Zapier
+- https://www.levels.fyi/remote/
+
+Good websites to find jobs at startups:
+- tophire.co
+- instahyre.com
+
+#Linkedin #Google #Uber #Adobe #Apple #Facebook #Salesforce #Intuit
+#Amazon #Rubrik #Nutanix #Slack #Atlassian #Twitter #Square #Databricks #Visa #Intel #Zoom #Gojek #Grab #Microsoft #Tekion

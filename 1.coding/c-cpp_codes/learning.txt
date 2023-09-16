@@ -1,0 +1,2 @@
+to set the no. of digits to be printed in case of float data type.
+cout<<fixed<<setprecision(6)<<(p/t)<<"\n";

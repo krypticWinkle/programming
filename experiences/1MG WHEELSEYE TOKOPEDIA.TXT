@@ -1,0 +1,16 @@
+1MG.COM
+Interview:
+
+You've an array containing many duplicate elements. Modify it to make original. Order shouldn't change
+Eg: arr = [1 2 3 6 3 1 3 2 8 9 8]
+    ans = [1 2 3 6 8 9]
+
+2: Return the maximum length of the biggest word in a string
+
+
+Wheelseye:
+Search an element in a rotated sorted array (Leetcode 33)
+2nd highest salary (SQL)
+OSI Layer
+Semaphores, Dining Philospher
+Critical Section

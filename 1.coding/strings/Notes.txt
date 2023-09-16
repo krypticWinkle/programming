@@ -1,0 +1,24 @@
+Q: Remove Primes:
+Instead of iterating the loop from 0 - v.size() -1, running it from v.size() - 1 to 0 would be
+efficient. Because even if the position of elements get modified after deletion, it won't make us do
+extra calculation
+
+(Sumeet sir's code is much clean in this)
+
+
+to_string(x); //to convert an integer into string
+
+String Permutation problem:
+Line 23:
+You can't run this loop from 1 to len. Because for higher numbers (say for 5th permutation in abc), 
+it'll give exception.
+
+How to insert in a vector:
+vec.insert(vec.begin() + 2, 5);
+
+
+Loop in a vector or an arraylist:
+For(int x: vector_name)
+{
+	Cout<<x<<”\n”;
+}

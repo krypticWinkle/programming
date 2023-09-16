@@ -1,0 +1,18 @@
+PREORDER:  ROOT LEFT RIGHT
+INORDER:   LEFT ROOT RIGHT
+POSTORDER: LEFT RIGHT ROOT
+When you declare a class which has a constructor which takes no argument, you don't put "()"
+while declaring an instance of that class. For ex:
+
+class Queue q1;  //Correct
+class Queue q1();//incorrect
+
+When the constructor takes argument, then you put that inside the bracket like this:
+class Queue q1(size);
+
+In functions in tree problems, always write this:
+if(root == NULL)
+{
+    return;
+}
+//this is to handle the case when you are passed a null pointer

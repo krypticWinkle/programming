@@ -1,0 +1,1 @@
+Generic trees don't have inorder. Only binary trees have that.

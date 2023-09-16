@@ -1,0 +1,3 @@
+palindrome:
+std::string s = std::to_string(x);    //to convert float or integer to string
+for ex: int x = 121 to string s = "121"

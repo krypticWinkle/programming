@@ -1,0 +1,2 @@
+javac program_name.java
+java function_name.java

@@ -1,0 +1,9 @@
+Solved Ones:
+1. https://www.geeksforgeeks.org/puzzle-13-100-prisoners-with-redblack-hats/
+
+2. https://www.geeksforgeeks.org/puzzle-divide-a-square-into-5-parts-such-that-4-parts-among-them-are-equal/
+
+3. https://www.geeksforgeeks.org/puzzle-27-hourglasses-puzzle/ 
+   (one is 7hr glass and other is 4 hr. Measure 9 hr)
+
+4. non-uniform Rope burns in 1 hour. Measure 40 min and 90 min. (u got many ropes)
